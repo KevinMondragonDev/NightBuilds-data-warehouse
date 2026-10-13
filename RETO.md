@@ -1,6 +1,6 @@
 # 🏛️ Reto 2 — Data warehouse con dbt
 
-**Repositorio:** `sideproject-data-warehouse` · **Nivel:** intermedio · **Entorno:** PostgreSQL + dbt · **Método y evaluación:** [`README.md`](docs/METODO.md)
+**Repositorio:** `NightBuilds-data-warehouse` · **Nivel:** intermedio · **Entorno:** PostgreSQL + dbt · **Método y evaluación:** [`README.md`](docs/METODO.md)
 
 ## El caso
 
