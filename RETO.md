@@ -17,7 +17,7 @@ La dirección de un banco pide cada lunes los mismos cinco números y cada lunes
 
 ## Datos
 
-`datos/`: 500 clientes, 800 cuentas, 60,000 movimientos de enero de 2024 a septiembre de 2026 y `cambios_segmento.csv`, con el historial de 140 clientes que cambiaron de segmento. Ojo: `clientes.csv` solo guarda el segmento **vigente**; el pasado hay que reconstruirlo. Son datos sintéticos.
+`datos/`: 500 clientes y 800 cuentas en CSV, 60,000 movimientos de enero de 2024 a septiembre de 2026 en **Parquet** (`movimientos.parquet`) y `cambios_segmento.csv`, con el historial de 140 clientes que cambiaron de segmento. Ojo: `clientes.csv` solo guarda el segmento **vigente**; el pasado hay que reconstruirlo. Son datos sintéticos.
 
 ## Por qué PostgreSQL y no Redshift
 

@@ -2,7 +2,7 @@
 
 > Data warehouse en PostgreSQL con dbt: modelo estrella, historial de cambios, pruebas de datos y cuadro de mando en D3.js.
 
-**Estado:** 🚧 sin empezar · **Tipo:** Data warehouse con dbt · **Módulo del programa:** 07 · Capstone, reto 2
+**Estado:** 🚧 sin empezar · **Tipo:** Data warehouse con dbt · **Módulo del programa:** 08 · Capstone, reto 2
 
 ## La problemática
 
@@ -12,7 +12,7 @@ La dirección de un banco pide cada lunes los mismos cinco números y cada lunes
 
 | Dónde | Qué es |
 |---|---|
-| `datos/` (4 archivos) | 500 clientes, 800 cuentas, 60,000 movimientos (2024 a 2026) y el historial de cambios de segmento |
+| `datos/` (4 archivos) | 500 clientes, 800 cuentas, 60,000 movimientos en Parquet (2024 a 2026) y el historial de cambios de segmento |
 
 Los archivos de `datos/` son **sintéticos**, generados para practicar: no corresponden a personas ni a operaciones reales.
 
